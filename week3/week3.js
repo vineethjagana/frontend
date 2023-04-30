@@ -950,7 +950,7 @@ for (let z = 5; z < parse_footer_json.bottomColunms.length; z++) {
   bottomColunms.appendChild(bottom_coloums_div_2)
 
 }
-
+// appending to body everything
 footer.appendChild(coloums_div);
 footer.appendChild(footer_hr)
 footer.appendChild(bottomColunms);
